@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khantlinnyan.
-- 👀 I’m interested in web development and ui ux.
+- 👀 I’m interested in Front-end
 - 🌱 I’m currently learning reactjs.
 
 <!---
