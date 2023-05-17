@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- ⚡ Fun fact **I'm secretly Spider-Man. I can't tell you.**
+- ⚡ Fun fact **I'm programmer, I have no life, so I don't have girlfriend.
+
+**
 
 <h3 align="left">Skills:</h3>
 <p align="left"> <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
