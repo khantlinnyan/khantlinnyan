@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Khant Lin Nyan</h1>
 <h3 align="left">Front-end Developer</h3>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Rust**
 
 - ⚡ Fun fact **I'm programmer, I have no life, so I don't have girlfriend.**
 
