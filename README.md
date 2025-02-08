@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Khant Lin Nyan</h1>
-<h3 align="left">Front-end Developer</h3>
+<h3 align="left">Fullstack Developer</h3>
 
 - 🌱 I’m currently learning **Kotlin**
 
